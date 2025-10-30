@@ -2,7 +2,7 @@
 
 **Project Title:** `Cyber Immune System 1.0v - Created by waruna.dilshan`
 
-## ⚠️ Educational Disclaimer (වගකීම් සීමා කිරීම)
+## ⚠️ Educational Disclaimer
 
 **This project is created strictly for educational and research purposes only.**
 
